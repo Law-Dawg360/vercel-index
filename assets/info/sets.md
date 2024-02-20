@@ -1,4 +1,4 @@
-[![Old Main 1](assets/screenshots/Screenshot_2024-02-20_001.png)]([assets/jsons/oldmain1.json](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/oldmain1.json))
+[![Old Main 1](assets/screenshots/Screenshot_2024-02-20_001.png)](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/oldmain1.json)
 Doesnt Open In New Tab 2024-02-20 10.19.51 AM
 [![nightTab Demo](asset/screenshot/screenshot-004.png)](https://zombiefox.github.io/nightTab/)
 [![nightTab Demo](asset/screenshot/screenshot-005.png)](https://zombiefox.github.io/nightTab/)
