@@ -1,11 +1,6 @@
 Old Main 1 (Doesnt Open In New Tab) (2024-02-20 10.19.51 AM)
-[![raw text](assets/screenshots/Screenshot_2024-02-20_001.png)](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/oldmain1.json)[github link](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/oldmain1.json)
-Doesnt Open In New Tab 2024-02-20 10.19.51 AM
+[![raw text   |](assets/screenshots/Screenshot_2024-02-20_001.png)](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/oldmain1.json)[|   github link](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/oldmain1.json)
+Old Main 2 (New Tab?) (time)
 [![nightTab Demo](asset/screenshot/screenshot-004.png)](https://zombiefox.github.io/nightTab/)
 [![nightTab Demo](asset/screenshot/screenshot-005.png)](https://zombiefox.github.io/nightTab/)
 [![nightTab Demo](asset/screenshot/screenshot-006.png)](https://zombiefox.github.io/nightTab/)
-[![nightTab Demo](asset/screenshot/screenshot-007.png)](https://zombiefox.github.io/nightTab/)
-[![nightTab Demo](asset/screenshot/screenshot-008.png)](https://zombiefox.github.io/nightTab/)
-[![nightTab Demo](asset/screenshot/screenshot-009.gif)](https://zombiefox.github.io/nightTab/)
-[![nightTab Demo](asset/screenshot/screenshot-010.png)](https://zombiefox.github.io/nightTab/)
-[![nightTab Demo](asset/screenshot/screenshot-011.png)](https://zombiefox.github.io/nightTab/)
