@@ -31,6 +31,7 @@
 [![page](assets/screenshots/Screenshot_2024-02-21_002.png)](https://law-dawg360.github.io/indexes/Home.html)[raw text   |](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/HomeMain1.json)[|   github link](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/HomeMain1.json)    
     
 ## template
+Title (Opens in New Tab?) (Time)
 [![page](assets/screenshots/Screenshot)](https://law-dawg360.github.io/indexes/)[raw text   |](https://raw.githubusercontent.com/Law-Dawg360/indexes/)[|   github link](https://github.com/Law-Dawg360/indexes/)    
 ## example
 [![page](assets/images/imagefileicon.png)](https://law-dawg360.github.io/indexes/Home.html)[raw text   |](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/HomeMain1.json)[|   github link](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/HomeMain1.json)  
