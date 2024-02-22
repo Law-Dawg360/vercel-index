@@ -9,7 +9,9 @@
   Other HomeTabs
 - [zombiefox hexagonTab](https://zombiefox.github.io/hexagonTab/)
   
-  other links
+  other links    
+- [JSFiddle](https://jsfiddle.net/user/fiddles/all/)
+  
 - https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/screenshots/Screenshot_2024-02-20_001.png
 
   # Screenshots
