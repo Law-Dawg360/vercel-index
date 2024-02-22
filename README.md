@@ -11,6 +11,7 @@
   
   other links    
 - [JSFiddle](https://jsfiddle.net/user/fiddles/all/)
+- [DevDocs](https://devdocs.io/)
   
 - https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/screenshots/Screenshot_2024-02-20_001.png
 
