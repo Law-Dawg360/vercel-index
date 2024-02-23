@@ -31,6 +31,10 @@ https://cobaltstart.pages.dev/about
 https://github.com/linuxserver/Heimdall?tab=readme-ov-file
 https://heimdall.site/
 
+https://github.com/gethomepage/homepage
+https://gethomepage.dev/latest/
+https://gethomepage.dev/latest/installation/docker/
+
 ## Example nightTab setups:
 
 - [Where to find these setups](https://github.com/zombieFox/nightTab/tree/main/asset/screenshot)
