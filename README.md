@@ -32,10 +32,10 @@
 
 
 # Examples/Demos/
-## Main 1 (Doesnt Open In New Tab) (2024-02-20 10.19.51 AM)
-| [raw text](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/oldmain1.json) | [github link](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/oldmain1.json) | [Full Screenshot, And the Image Is Link to the Site](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/Screenshot_2024-02-20_001.png) |
-|:-------------:|:-------------:|:-------------:|
-|  |  | [![page](assets/screenshots/Screenshot_2024-02-20_001.png)](https://law-dawg360.github.io/indexes/Main.html) |
+## Main 1 (Doesnt Open In New Tab) (2024-02-20 10.19.51 AM)    
+| [raw text](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/oldmain1.json) | [github link](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/oldmain1.json) | [Full Screenshot, And the Image Is Link to the Site](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/Screenshot_2024-02-20_001.png) |    
+(Image is the link to the page)    
+[![page](assets/screenshots/Screenshot_2024-02-20_001.png)](https://law-dawg360.github.io/indexes/Main.html) |
     
 ## Home (Doesnt Open In New Tab) (2024-02-21 7.51.23 AM)
 [![page](assets/screenshots/Screenshot_2024-02-21_002.png)](https://law-dawg360.github.io/indexes/Home.html)[raw text   |](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/HomeMain1.json)[|   github link](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/HomeMain1.json)    
