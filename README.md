@@ -7,6 +7,7 @@
 - [law-dawg360](https://law-dawg360.github.io/nightTabHome/)
 - [zombiefox](https://zombiefox.github.io/nightTab/)
 - [Netflify Cloud Hosting](https://app.netlify.com/teams/law-dawg360/overview)
+- [Vercel Cloud Hosting](https://vercel.com/new)
 
   Other HomeTabs
 - [zombiefox hexagonTab](https://zombiefox.github.io/hexagonTab/)
