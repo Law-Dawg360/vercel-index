@@ -24,6 +24,7 @@
 # add to sites as bookmarks later
 https://github.com/joelacus/Cobalt?tab=readme-ov-file
 https://cobaltstart.pages.dev/
+https://cobaltstart.pages.dev/about
 
 ## Example nightTab setups:
 
