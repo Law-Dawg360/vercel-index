@@ -28,6 +28,9 @@ https://github.com/joelacus/Cobalt?tab=readme-ov-file
 https://cobaltstart.pages.dev/
 https://cobaltstart.pages.dev/about
 
+https://github.com/linuxserver/Heimdall?tab=readme-ov-file
+https://heimdall.site/
+
 ## Example nightTab setups:
 
 - [Where to find these setups](https://github.com/zombieFox/nightTab/tree/main/asset/screenshot)
