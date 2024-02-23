@@ -21,6 +21,10 @@
 [![nightTab Demo](asset/screenshot/screenshot-001.png)](https://zombiefox.github.io/nightTab/)
 [![nightTab Demo](asset/screenshot/screenshot-002.png)](https://zombiefox.github.io/nightTab/)
 
+# add to sites as bookmarks later
+https://github.com/joelacus/Cobalt?tab=readme-ov-file
+https://cobaltstart.pages.dev/
+
 ## Example nightTab setups:
 
 - [Where to find these setups](https://github.com/zombieFox/nightTab/tree/main/asset/screenshot)
