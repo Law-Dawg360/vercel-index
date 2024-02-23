@@ -1,4 +1,4 @@
-# Homepage
+# [Homepage](Homepage)
 
 # Links to the Nighttab Editors
 
