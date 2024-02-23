@@ -6,6 +6,7 @@
 - [daiyam](https://daiyam.github.io/nightTab/)
 - [law-dawg360](https://law-dawg360.github.io/nightTabHome/)
 - [zombiefox](https://zombiefox.github.io/nightTab/)
+- [Netflify Cloud Hosting](https://app.netlify.com/teams/law-dawg360/overview)
 
   Other HomeTabs
 - [zombiefox hexagonTab](https://zombiefox.github.io/hexagonTab/)
@@ -34,6 +35,11 @@ https://heimdall.site/
 https://github.com/gethomepage/homepage
 https://gethomepage.dev/latest/
 https://gethomepage.dev/latest/installation/docker/
+
+https://github.com/Lissy93/dashy
+https://dashy.to/
+https://demo.dashy.to/
+https://app.netlify.com/teams/law-dawg360/overview
 
 ## Example nightTab setups:
 
